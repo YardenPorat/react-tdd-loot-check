@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+<!-- prettier-ignore -->
+<h1 align="center">
+  Loot Check
+  <br/>
+    TDD with React - Bitcoin Wallet
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="#-tech-stack">Tech Stack</a>
+</p>
 
-## Available Scripts
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+</p>
 
-In the project directory, you can run:
+<br>
 
-### `yarn start`
+## 💻 The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Playing around with TDD and React.js
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>
 
-### `yarn test`
+## 🚀 Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Testing Lib's                      | Front End      | API's |
+| -------------                      | ---------------| ----- |
+| [Mocha.js](https://mochajs.org/)   | [React.js](https://reactjs.org) | [Coindesk](coindesk.com/price/bitcoin)|
+| [Chai.js](https://www.chaijs.com/) | [Redux](https://redux.js.org/)||
+| [Sinon.js](https://sinonjs.org/)   | [Redux Thunk](https://github-images.com/reduxjs/redux-thunk)||
+| [Enzyme.js](https://enzymejs.github.io/enzyme/) 
+| [chai-jest-snapshot](https://www.npmjs.com/package/chai-jest-snapshot)
+| [fetch-mock](http://www.wheresrhys.co.uk/fetch-mock/) 
+| [jsdom](https://github.com/jsdom/jsdom) 
+| [jsdom-global](https://www.npmjs.com/package/jsdom-global)
+| [redux-mock-store](https://github.com/reduxjs/redux-mock-store)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+<p align="center">
+  <img alt="Loot Check" src=".github-images/1.png" width="100%">
+</p>

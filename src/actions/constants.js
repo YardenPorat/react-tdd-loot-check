@@ -1,0 +1,4 @@
+export const SET_BALANCE = 'SET_BALANCE';
+export const ADD_TO_BALANCE = 'ADD_TO_BALANCE';
+export const WITHDRAW_BALANCE = 'WITHDRAW_BALANCE';
+export const FETCH_BITCOIN = 'FETCH_BITCOIN';
